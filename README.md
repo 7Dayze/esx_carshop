@@ -11,9 +11,9 @@ I mostly made this so I can use [esx_vehicleshop](https://github.com/ESX-Org/esx
 
 # Download & Installation:
 1) Download the .zip.
-2) Extract the .zip or Open the .zip.
-3) Import `en_esx_carshop.sql` or `nl_esx_carshop.sql` in your database
-4) Place `esx_carshop` in your ESX Directory
+2) Extract the .zip or open the .zip.
+3) Import `en_esx_carshop.sql` or `nl_esx_carshop.sql` based on your preferred language from the localization folder in your database
+4) Place `esx_carshop` in your ESX directory
 5) Add `start esx_carshop` to your server.cfg
 
 # Credits/Original Code:
